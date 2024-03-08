@@ -5,8 +5,9 @@ window.addEventListener('onWidgetLoad', function (obj) {
   let initialMessage = fieldData.initialMessage
   let expiredMessage = fieldData.expiredMessage
 
-  // set bg color
+  // visuals
   timerElement.style.backgroundColor = fieldData.backgroundColor
+  timerElement.style.fontFamily = fieldData.font
 
   // seconds -> min:sec format
   function formatTime(time) {
