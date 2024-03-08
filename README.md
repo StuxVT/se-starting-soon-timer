@@ -1,3 +1,10 @@
+# Simple Countdown for SE
+
+
+https://github.com/StuxVT/se-starting-soon-timer/assets/100985218/7fdee5df-04b1-47c3-adf5-7f80deef9d7e
+
+
+
 # StreamElemnts testing environment
 
 ## Installation
