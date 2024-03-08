@@ -9,6 +9,8 @@ https://github.com/StuxVT/se-starting-soon-timer/assets/100985218/7fdee5df-04b1-
 2. Download latest [SimpleCountdown.zip](https://github.com/StuxVT/se-starting-soon-timer/releases/download/v1.0/SimpleCountdown.zip)
 3. Go to your [StreamElements Overlays Dashbaord](https://streamelements.com/dashboard/overlays), click on the "New Overlay" button
 4. Click on the Widget.io icon, import SimpleCountdown.zip, and click "Create Widget"
+   ![image](https://github.com/StuxVT/se-starting-soon-timer/assets/100985218/aaf0691e-e799-4e0b-8c89-1dc3eb8521b4)
+
 
 
 
