@@ -17,6 +17,12 @@ let fieldData={
         "value": "Time's up!",
         "group": "Behavior"
     },
+    "textColor": {
+        "label": "Text Color",
+        "type": "colorpicker",
+        "value": "rgba(255, 255, 255, 1)",
+        "group": "Visuals"
+    },
     "backgroundColor": {
         "label": "Background Color",
         "type": "colorpicker",
