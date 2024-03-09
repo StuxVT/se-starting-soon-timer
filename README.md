@@ -6,7 +6,7 @@ https://github.com/StuxVT/se-starting-soon-timer/assets/100985218/7fdee5df-04b1-
 
 ## Installation:
 1. Install [Widget.io](https://chromewebstore.google.com/detail/widgetio/fcgbjpajcfjnjgfdeookpnoefgcliljj) extension for Chrome
-2. Download latest [SimpleCountdown.zip](https://github.com/StuxVT/se-starting-soon-timer/releases/download/v1.0.1/SimpleCountdown.zip)
+2. Download latest [SimpleCountdown.zip](https://github.com/StuxVT/se-starting-soon-timer/releases/download/v1.0.3/SimpleCountdown.zip)
 3. Go to your [StreamElements Overlays Dashbaord](https://streamelements.com/dashboard/overlays), click on the "New Overlay" button
 4. Click on the Widget.io icon, import SimpleCountdown.zip, and click "Create Widget"
    
