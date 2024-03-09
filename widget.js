@@ -8,6 +8,8 @@ window.addEventListener('onWidgetLoad', function (obj) {
   // visuals
   timerElement.style.backgroundColor = fieldData.backgroundColor
   timerElement.style.fontFamily = fieldData.fontName
+  timerElement.style.borderRadius = fieldData.borderRadius + "px"
+  timerElement.style.textShadow = fieldData.textShadow ? "0 0 6px black" : "none"
 
   // seconds -> min:sec format
   function formatTime(time) {

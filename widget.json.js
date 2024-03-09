@@ -22,6 +22,19 @@ let fieldData={
     "fontName": {
         "type": "googleFont",
         "label": "Google Font name",
-        "value": "Montserrat",
+        "value": "Times New Roman"
+    },
+    "borderRadius": {
+        "type": "slider",
+        "label": "Background Curve",
+        "value": 10,
+        "min": 0,
+        "max": 100,
+        "step": 1
+    },
+    "textShadow": {
+        "type": "checkbox",
+        "label": "Text Shadow",
+        "value": "true"
     }
 }

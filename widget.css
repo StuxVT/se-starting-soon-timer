@@ -1,9 +1,9 @@
 #timer {
   font-size: 72px; 
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Times New Roman', sans-serif;
   color: white;  
   text-align: center;
   background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 10px;  
-  text-shadow: 0 0 6px black; 
+  border-radius: 10px;
+  text-shadow: 0 0 6px black;
 }
