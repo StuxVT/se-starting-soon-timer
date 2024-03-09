@@ -7,7 +7,7 @@ window.addEventListener('onWidgetLoad', function (obj) {
 
   // visuals
   timerElement.style.backgroundColor = fieldData.backgroundColor
-  timerElement.style.fontFamily = fieldData.font
+  timerElement.style.fontFamily = fieldData.fontName
 
   // seconds -> min:sec format
   function formatTime(time) {
